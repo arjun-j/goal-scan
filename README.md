@@ -1,1 +1,1 @@
-scan goal.com and to report most mentioned EPL teams
+scan goal.com and report most mentioned EPL teams

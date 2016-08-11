@@ -1,1 +1,1 @@
-import
+import scrapy
